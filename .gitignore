@@ -1,0 +1,15 @@
+# Virtual environments
+cnn_env/
+env/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE folders
+.vscode/
+.idea/
+
+# OS files
+Thumbs.db

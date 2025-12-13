@@ -1,0 +1,19 @@
+{
+    "memories": [
+        {
+            "text": "buy milk",
+            "event_time": "5 pm",
+            "saved_at": "2025-12-13 16:59:52"
+        },
+        {
+            "text": "take tablet",
+            "event_time": "7 pm",
+            "saved_at": "2025-12-13 17:00:13"
+        },
+        {
+            "text": "eat fruits",
+            "event_time": "5:30 pm",
+            "saved_at": "2025-12-13 17:01:15"
+        }
+    ]
+}
